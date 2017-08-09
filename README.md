@@ -1,5 +1,4 @@
 # hola-mundo
-soy nuevo a github
 
 Me llamo Stefani
 
